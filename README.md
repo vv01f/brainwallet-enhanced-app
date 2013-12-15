@@ -4,11 +4,11 @@ brainwallet-enhanced
 how to deal with bitcoin payments offline as good as online with an app for everyone
 
 
-out of questions to the blockchain.info/wallet app, the wish for a better and more usable software arose...
+out of questions to the blockchain.info/wallet app, the wish for a better and more usable and secure software arose...
+the best effort seen of my eyes so far is the brainwallet app. it is not user-friedly though.
 
-
-BIP 21 is nice to hand over a request for payment to the customer. This works online only.
-I have done that for online shops so far. Works fine for both parties so far.
+BIP 21 is nice to hand over a request for payment to customers. This works online only.
+I have done that for online shops so far. Works fine for both parties.
 
 BUT: for a offline store, e.g. at a RL market.. this is no good and the current available ios app does only help half the way (request payment, could send if sender is online)
 
@@ -43,7 +43,7 @@ seller:
 * send / release tx to network when online
 
 also possible (other) use cases:
-* prepare itemlist with prices (pro feature - possibly with extra one time fee for phone-apps)
+* prepare itemlist with prices in selectable currency (eventually pro feature - possibly with extra one time fee for phone-apps)
 * sweep funds by input / qr-scan
 * to hand over a business card as qr could help in that app to connect the (new) contact with the transaction
 * write & sign messages to a contact
@@ -53,8 +53,10 @@ also possible (other) use cases:
 * create a number of (vanity) addresses
 * edit address book
 * ex- & import address book
+* select state currencies
+* (automatically) have market prices for bitcoin in state currencies
 
 1. did I miss some gap in the process?
 2. any comments for improvement?
-3. what is needed to build this? (would prefer a solution  )
+3. what is needed to build this? (would prefer a solution usable as e.g. js-app for browsers)
 4. who can help to make this happen like a brainwallet app?
