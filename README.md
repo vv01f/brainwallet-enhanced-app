@@ -50,6 +50,9 @@ also possible (other) use cases:
 * read & verify a message receives of a contact
 * switch to online mode to behave like the BIP 21 version
 * list & search & sort transactions (details e.g.: dtg, amount, sender, receiver, released(y/n) )
+* create a number of (vanity) addresses
+* edit address book
+* ex- & import address book
 
 1. did I miss some gap in the process?
 2. any comments for improvement?
